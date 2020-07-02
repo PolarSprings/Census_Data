@@ -1,2 +1,2 @@
 # Census_Data
-Using data visualization with pandas to summarize feature importance of various factors, from the UCI ML repos on Census Data for Adults
+Using data visualization with pandas to summarize feature importance of various factors, from the UCI ML repo on Census Data for Adults
